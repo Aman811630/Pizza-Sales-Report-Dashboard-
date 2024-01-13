@@ -51,3 +51,7 @@ pizza_name - name of the pizza
 -Re-modelled the data relationship.
 
 -Created an executive KPI dashboard containing dynamic filtering options, high-level trending metrics, sales performance, order distribution, and trendings month over month, quarter over quarter.
+
+![pizza sales dashboards](https://github.com/Aman811630/Pizza-Sales-Report-Dashboard-/assets/100797749/8e7ff1d3-9aa7-43bf-9f97-ad9f69953c2d)
+
+![Best   Worst Pizza Sales](https://github.com/Aman811630/Pizza-Sales-Report-Dashboard-/assets/100797749/b11cc986-8ff7-44ec-97b6-273b47ad29b1)
